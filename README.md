@@ -1,1 +1,1 @@
-# LeskAlgorithmForWSD
+# Lesk Algorithm For WSD
